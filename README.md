@@ -1,2 +1,1 @@
-# Finals
-Final Project
+# finals
